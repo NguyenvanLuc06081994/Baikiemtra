@@ -87,4 +87,9 @@ class ProductManager
         }
         return $products;
     }
+
+    public function searchABC()
+    {
+        return 'abc';
+    }
 }
